@@ -1,5 +1,3 @@
-Here is a draft README.md with some suggested content for the ModuloChat Details repository:
-
 # ModuloChat Details
 
 ModuloChat is a modular chat application with interchangeable frontends and backends. This repo contains overarching documentation and specifications for the overall ModuloChat system.
@@ -22,7 +20,7 @@ ModuloChat is a modular chat application with interchangeable frontends and back
 - [backend-Swift](https://github.com/Burkswill2) - Swift backend
 - [backend-Kotlin](https://github.com/Burkswill2) - Kotlin backend
 
-## Architecture
+## Architecture (In Progress)
 
 [Architecture.pdf](Architecture.pdf) - High-level overview of ModuloChat architecture. Includes component diagrams.
 
@@ -30,13 +28,13 @@ ModuloChat is a modular chat application with interchangeable frontends and back
 
 [Backend_Architecture.pdf](Backend_Architecture.pdf) - Detailed backend architecture and component design.
 
-## API Documentation
+## API Documentation (Coming Soon)
 
 [API.md]() - Reference documentation for ModuloChat APIs.
 
 OpenAPI spec files also located in [/specs](/specs) folder.
 
-## Protocols
+## Protocols (Coming Soon)
 
 [Messaging.md](Messaging.md) - Communication protocols and message formats. 
 
@@ -44,8 +42,6 @@ OpenAPI spec files also located in [/specs](/specs) folder.
 
 [Environments.md](Environments.md) - Setup guide for local development, staging, production environments.
 
-## Testing
+## Testing (Coming Soon)
 
 [Testing.md](Testing.md) - Overview of testing strategies and frameworks used.
-
-Let me know if you would like me to expand or modify this example README for the details repository. I'm happy to add more sections or flesh out the content.
