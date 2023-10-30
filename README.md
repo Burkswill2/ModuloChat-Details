@@ -24,7 +24,7 @@ ModuloChat is a modular chat application with interchangeable frontends and back
 
 ## Architecture
 
-[Architecture.md](C4-ModuloChat.pdf) - High-level overview of ModuloChat architecture. Includes component diagrams.
+[Architecture.pdf](Architecture.pdf) - High-level overview of ModuloChat architecture. Includes component diagrams.
 
 [Frontend_Architecture.md]() - Detailed frontend architecture and component design.
 
