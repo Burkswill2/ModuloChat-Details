@@ -20,6 +20,10 @@ ModuloChat is a modular chat application with interchangeable frontends and back
 - [backend-Swift](https://github.com/Burkswill2) - Swift backend
 - [backend-Kotlin](https://github.com/Burkswill2) - Kotlin backend
 
+## Mock-Ups
+
+[Mock-Ups.pdf](Mock-Ups.pdf) - Initial user interface mockups and wireframes for the ModuloChat application showing core screens and workflows.
+
 ## Architecture (In Progress)
 
 [Architecture.pdf](Architecture.pdf) - High-level overview of ModuloChat architecture. Includes component diagrams.
