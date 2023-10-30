@@ -83,6 +83,16 @@ docker run -d -p 27017:27017 mongo
 docker run -d -p 6379:6379 redis
 ```
 
+
+- **PostgreSQL** - This open source relational database would be used as the primary persistent data store. Things like message history, user accounts, room data, etc. would reside here.
+
+- **MongoDB** - A document-based NoSQL database that can handle more unstructured or polymorphic data if needed. Could be used in conjunction with Postgres.
+
+- **Redis** - An in-memory data store used for caching and message queuing. So caching frequently accessed data from Postgres and also for real-time messaging via pub/sub channels.
+
+- **Docker** - Used to containerize and run all the database systems above (Postgres, MongoDB, Redis) in an isolated, reproducible way during development.
+
+
 ## Infrastructure
 
 - [Kubernetes](https://kubernetes.io/)
